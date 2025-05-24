@@ -29,7 +29,6 @@ struct ContentView: View {
 
             
         }
-        .ignoresSafeArea(.all)
         .padding()
         
         Text(text)
